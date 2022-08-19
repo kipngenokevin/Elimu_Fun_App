@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Elimu_Fun_App</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">email</string>
+    <string name="user_icon">user Icon</string>
+    <string name="Login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="instead">Login through Google or Facebook instead</string>
+    <string name="Google">Google</string>
+    <string name="Facebook">Facebook</string>
+    <string name="account_status">Don\'t have an account?<font color="#FF006600"><b> Sign up</b></font></string>
 </resources>
